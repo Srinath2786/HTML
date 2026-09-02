@@ -1,4 +1,4 @@
-# DevBoard
+## DevBoard
 
 A modern **developer productivity dashboard built with HTML5 + CSS3 only**.
 
