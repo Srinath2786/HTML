@@ -2,7 +2,7 @@
 
 A modern **developer productivity dashboard built with HTML5 + CSS3 only**.
 
-## Features
+### Features
 - Responsive developer dashboard
 - Project showcase
 - Skill progress
